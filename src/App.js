@@ -19,6 +19,7 @@ function App() {
         </a>
       </header>
       <h1>MOI</h1>
+      <h1>MOI2</h1>
     </div>
   );
 }
